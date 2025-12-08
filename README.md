@@ -1,5 +1,6 @@
+## A repository of English/Spanish lexicographical data 
 
-
+I plan to merge several sources in this repo.
 
 ## Original documentation:
 
